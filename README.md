@@ -1,4 +1,14 @@
-# Task Tracker API
+# 🧠 FastAPI Task Tracker
+
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![License](https://img.shields.io/github/license/NikoVlasov/fastapi-tasks)
+![Last Commit](https://img.shields.io/github/last-commit/NikoVlasov/fastapi-tasks)
+![Repo Stars](https://img.shields.io/github/stars/NikoVlasov/fastapi-tasks?style=social)
+
+
+
+
+
 
 Простой REST API для управления задачами, реализованный с помощью FastAPI и SQLAlchemy.
 

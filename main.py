@@ -100,3 +100,5 @@ def delete_task(
     db.delete(db_task)
     db.commit()
     return
+
+# uvicorn main:app --reload

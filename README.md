@@ -214,5 +214,5 @@ Email: snat140823061990@gmail.com
 Спасибо за внимание! 🚀
 
 
-![Preview](preview.png)
+
 
